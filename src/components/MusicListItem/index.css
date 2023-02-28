@@ -1,0 +1,41 @@
+.list-items {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.image {
+  width: 150px;
+}
+
+.title-container {
+  margin: 15px;
+}
+
+.title {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.genre {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #3b82f6;
+  margin-top: 15px;
+  align-self: flex-start;
+}
+
+.time {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.button {
+  background-color: transparent;
+  outline: none;
+  align-self: flex-start;
+  cursor: pointer;
+  border: none;
+}
